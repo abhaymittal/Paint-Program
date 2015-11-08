@@ -1,7 +1,7 @@
 # A very basic paint program
 ## Author: Abhay Mittal
 
-I developed this program as a coursework assignment in Object Oriented Programming during my sophomore year. It was my first Object Oriented Program.
+I developed this program as a coursework assignment in Object Oriented Programming during my sophomore year. It was my first Object Oriented GUI application.
 
 ## Features
 
@@ -14,4 +14,4 @@ I developed this program as a coursework assignment in Object Oriented Programmi
 
 * Ability to change the background (canvas) color
 
-* Ability to create figures with a solid fill	
+* Ability to create figures with a solid fill
