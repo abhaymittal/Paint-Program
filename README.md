@@ -1,9 +1,9 @@
 # A very basic paint program
-## Author: Abhay Mittal
+### Author: Abhay Mittal
 
-I developed this program as a coursework assignment in Object Oriented Programming during my sophomore year. It was my first Object Oriented GUI application.
+I developed this program as a coursework assignment in Object Oriented Programming during my sophomore year. It was my first Object Oriented Program.
 
-## Features
+### Features
 
 * The program supports the following figures
     * Ovals (Ellipse)
@@ -15,3 +15,8 @@ I developed this program as a coursework assignment in Object Oriented Programmi
 * Ability to change the background (canvas) color
 
 * Ability to create figures with a solid fill
+
+
+### Steps to execute
+1. `javac Prog.java`
+2. `java Prog`
